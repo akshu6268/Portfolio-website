@@ -171,7 +171,6 @@ export const SkillsInfo = [
   export const education = [
     {
       id: 1,
-      img: bsaLogo,
       school: "Prestige institute of managment and technology, Bhopal",
       date: "Aug 2022 - Jun 2026",
       grade: "70.2%",
@@ -180,7 +179,6 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: vpsLogo,
       school: "Christa jyoti mission School Beohari, (Dist-shahdol)",
       date: "Apr 2021 - March 2022",
       grade: "78%",
@@ -189,7 +187,6 @@ export const SkillsInfo = [
     },
     {
       id: 3,
-      img: vpsLogo,
       school: "Christa jyoti mission School Beohari,(Dist-shahdol)",
       date: "Apr 2019- March 2020",
       grade: "80.5%",
